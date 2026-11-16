@@ -1,3 +1,3 @@
 <h1>Todo list<h1>
 
-coming soon...
+<p>coming soon...<p>
